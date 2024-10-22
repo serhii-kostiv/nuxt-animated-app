@@ -48,9 +48,5 @@
 import { moveText } from '~/lib/utils';
 import { LinkPosition } from '~/types/positions';
 
-useHead({
-	title: 'My App',
-});
-
 const h1ContainerRef = ref<HTMLHeadingElement | null>(null);
 </script>
