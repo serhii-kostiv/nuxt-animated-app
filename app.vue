@@ -8,6 +8,6 @@
 
 <script lang="ts" setup>
 useHead({
-	title: 'Nuxt-TT-App',
+	title: 'Nuxt-Animated-App',
 });
 </script>
