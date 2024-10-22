@@ -1,0 +1,64 @@
+@font-face {
+	font-family: 'GrtskGiga';
+	src: url('/fonts/GrtskGiga-Bold.eot');
+	src: url('/fonts/GrtskGiga-Bold.eot?#iefix') format('embedded-opentype'),
+		url('/fonts/GrtskGiga-Bold.woff2') format('woff2'),
+		url('/fonts/GrtskGiga-Bold.woff') format('woff'),
+		url('/fonts/GrtskGiga-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'GrtskGiga';
+	src: url('/fonts/GrtskGiga-BoldItalic.eot');
+	src: url('/fonts/GrtskGiga-BoldItalic.eot?#iefix') format('embedded-opentype'),
+		url('/fonts/GrtskGiga-BoldItalic.woff2') format('woff2'),
+		url('/fonts/GrtskGiga-BoldItalic.woff') format('woff'),
+		url('/fonts/GrtskGiga-BoldItalic.ttf') format('truetype');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'GrtskGiga';
+	src: url('/fonts/GrtskGiga-Semibold.eot');
+	src: url('/fonts/GrtskGiga-Semibold.eot?#iefix') format('embedded-opentype'),
+		url('/fonts/GrtskGiga-Semibold.woff2') format('woff2'),
+		url('/fonts/GrtskGiga-Semibold.woff') format('woff'),
+		url('/fonts/GrtskGiga-Semibold.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+
+:root {
+	--primary-color: #373737;
+	--secondary-color: #bebebe;
+	--tertiary-color: #FFCB46;
+}
+
+html,
+body {
+	background-color: var(--secondary-color);
+	color: var(--primary-color);
+}
+
+body {
+	font-family: 'GrtskGiga', sans-serif;
+}
+
+.text-stroke {
+	-webkit-text-stroke: 1px var(--primary-color);
+	opacity: 0.1;
+}
+
+.page-enter-active,
+.page-leave-active {
+	transition: opacity 0.5s;
+}
+
+.page-enter-from,
+.page-leave-to {
+	opacity: 0;
+	filter: blur(1rem);
+}
