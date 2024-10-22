@@ -5,7 +5,7 @@
 			ref="textRef"
 		>
 			<span ref="spanRef">{{ text }}</span>
-			<span v-for="i in 5" :key="i">{{ text }}</span>
+			<span v-for="i in 9" :key="i">{{ text }}</span>
 		</div>
 	</div>
 </template>
