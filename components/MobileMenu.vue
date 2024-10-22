@@ -4,8 +4,8 @@
 			@click="toggleMenu"
 			class="fixed top-[24px] right-[20px] p-2 z-30 flex flex-col gap-2"
 		>
-			<span class="w-[30px] h-[2px] bg-black"></span>
-			<span class="w-[30px] h-[2px] bg-black"></span>
+			<span class="w-[22px] h-[1px] bg-black"></span>
+			<span class="w-[22px] h-[1px] bg-black"></span>
 		</button>
 		<div
 			class="fixed top-0 right-0 bg-gray-500 h-screen w-[250px] transition-transform transform z-50"
