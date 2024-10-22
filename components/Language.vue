@@ -7,7 +7,7 @@
 		<div class="relative group">
 			<!-- Languages button -->
 			<div
-				class="xs:p-1 p-3 border border-opacity-15 rounded-full cursor-pointer transition duration-500 group-hover:bg-[--tertiary-color] group-hover:text-black group-hover:border-black hover:border-opacity-0 group-hover:shadow-circle group-hover:shadow-[--tertiary-color] z-20"
+				class="flex justify-center items-center w-[34px] h-[34px] xl:w-[38px] xl:h-[38px] border border-opacity-15 rounded-full cursor-pointer transition duration-500 group-hover:bg-[--tertiary-color] group-hover:text-black group-hover:border-black hover:border-opacity-0 group-hover:shadow-circle group-hover:shadow-[--tertiary-color] z-20"
 			>
 				👅
 			</div>
