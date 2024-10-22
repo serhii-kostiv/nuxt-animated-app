@@ -3,7 +3,7 @@
 
 [DEMO](https://nuxt-animated-app.vercel.app/)
 
-This is a private project using Nuxt 3, Tailwind CSS, VueUse, GSAP, and other utilities to create an animated web application.
+This is a project using Nuxt 3, Tailwind CSS, VueUse, GSAP, and other utilities to create an animated web application.
 
 ## Project Details
 
