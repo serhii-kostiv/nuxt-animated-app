@@ -62,3 +62,15 @@ body {
 	opacity: 0;
 	filter: blur(1rem);
 }
+
+.page-blur, .page-clear {
+  transition: filter .5s ease-in-out; 
+}
+
+.page-blur {
+  filter: blur(10px);
+}
+
+.page-clear {
+  filter: blur(0);
+}
