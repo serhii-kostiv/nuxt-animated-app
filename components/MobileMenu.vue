@@ -8,7 +8,7 @@
 			<span class="w-[22px] h-[1px] bg-black"></span>
 		</button>
 		<div
-			class="fixed top-0 right-0 bg-gray-500 h-screen w-[250px] transition-transform transform z-50"
+			class="fixed top-0 right-0 bg-gray-500 h-screen w-[250px] transition-transform transform duration-1000 z-50"
 			:class="{ 'translate-x-0': isOpen, 'translate-x-full': !isOpen }"
 			ref="targetRef"
 		>
