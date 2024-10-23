@@ -15,7 +15,7 @@
 			<!-- Languages container -->
 			<div
 				ref="languagesContainer"
-				class="absolute top-[50%] -translate-y-[50%] flex gap-2 pl-10 py-3"
+				class="absolute top-[50%] -translate-y-[50%] flex gap-2 pl-3 py-3"
 			>
 				<span class="z-30 opacity-0 cursor-pointer">RU</span>
 				<span class="z-30 opacity-0 cursor-pointer">UA</span>
