@@ -23,7 +23,7 @@
 				<div v-else class="flex flex-col items-end gap-3">
 					<FloatingLink to="https://sk-dev-app.vercel.app" name="Portfolio" />
 					<FloatingLink to="https://www.linkedin.com/in/serhii-kostiv/" name="Linkedin" />
-					<FloatingLink to="https://github.com/kraiviks" name="GitHub" />
+					<FloatingLink to="https://github.com/serhii-kostiv" name="GitHub" />
 					<FloatingLink to="mailto:kostiv.serhii@gmail.com" name="Email" />
 				</div>
 			</ul>

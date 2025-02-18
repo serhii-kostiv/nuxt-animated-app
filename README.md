@@ -7,7 +7,7 @@ This is a project using Nuxt 3, Tailwind CSS, VueUse, GSAP, and other utilities 
 
 ## Project Details
 
-- **Author**: [Serhii Kostiv](https://github.com/kraiviks)
+- **Author**: [Serhii Kostiv](https://github.com/serhii-kostiv)
 - **Project Name**: `nuxt-animated-app`
 - **Framework**: [Nuxt 3](https://nuxt.com)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
@@ -26,7 +26,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kraiviks/nuxt-animated-app.git
+   git clone https://github.com/serhii-kostiv/nuxt-animated-app.git
    ```
 
 2. Install dependencies:

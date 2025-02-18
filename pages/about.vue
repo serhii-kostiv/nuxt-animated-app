@@ -28,7 +28,7 @@
 			class="xs:hidden"
 			:position="LinkPosition.RIGHT"
 			name="GitHub"
-			to="https://github.com/kraiviks/"
+			to="https://github.com/serhii-kostiv/"
 			target="_blank"
 		/>
 		<FloatingLink
